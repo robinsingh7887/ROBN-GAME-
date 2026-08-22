@@ -1,0 +1,6 @@
+{
+  "name": "Robn Game",
+  "description": "Robn Game $RBN crypto tap-to-earn game with Tap, Energy, Boost, Level, Profit/Hour, Daily Rewards, Tasks, Daily Combo, Referral, Leaderboard and Web3 Wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
